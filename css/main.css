@@ -1,0 +1,99 @@
+
+body {
+  background: #eed0b7;
+  margin: 0;
+}
+.max-width
+{  max-width: 58em;
+  padding: 0 1em;
+  margin: 0 auto;
+}
+#banner
+{  padding: 10% 0;
+  background: #fff;
+  background-image:
+    linear-gradient(to right, #fd868b 5%, #900 50%, #fe9a8b 100%);
+}#banner h1
+{  font-size: 3em;
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+div
+{  text-align: center;
+}
+ul
+{    list-style-type: none;
+  margin: .5em;
+  padding: 0;
+}
+li
+{
+  display: inline;
+  margin: .35em;
+}
+a
+{  font: bold 1em Georgia, serif;
+  color: #944;
+}
+figure
+{margin: 0;
+}
+img
+{width: auto;
+  max-width: 100%;
+  height: auto;
+  padding-top: 1em;
+  bottom: 0;
+  padding-left: 2em;
+}
+/*
+photo-grid figure
+{width: 50%;
+  height: 0;
+  padding-bottom: 25%;
+  border: .5px solid #f03;border-radius: 75%;margin: 4%;overflow: hidden;
+}
+ */
+/*
+photo-grid img
+{max-width: 400%;
+  margin-left: -25%;
+}
+ */
+/*
+summary
+{
+  font: bold 1.3em Georgia, serif;
+  color: #900;
+}
+ */
+main h2
+{
+  font: bold 2em/1.15 Georgia, serif;
+  color: #900;
+}
+main p
+{
+  font: 1.4em/1.5 Georgia, serif;
+  color: #8b4513;
+}
+h3
+{
+  font: bold 1.5em Georgia, serif;
+  padding-bottom: -.5em;
+  text-align: center;
+  color: #900;
+}
+p
+{
+  font: 1em Georgia, serif;
+  color: #8b4513;
+  margin-top: -.25em;
+}
+ul
+{
+  font: 1em Georgia, serif;
+  color: #8b4513
+}
+
